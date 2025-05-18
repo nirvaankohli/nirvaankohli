@@ -6,6 +6,3 @@ Main Language: Python🐍
 
 Coming 🔜 How to approach ML problems via Jupyter Notebook with an explanation
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=nirvaankohli&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirvaankohli&layout=compact)
