@@ -1,9 +1,11 @@
-👋 Hi, I’m @Owlfx
+👋 Hi, I’m @nirvaankohli
 
-I'm a 12 y/old boy who likes to work on projects in my free time. 
+I'm a 14 y/old boy who likes to work on projects in my free time. 
 
 Main Language: Python🐍
 
 Coming 🔜 How to approach ML problems via Jupyter Notebook with an explanation
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=nirvaankohli&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirvaankohli&layout=compact)
