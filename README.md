@@ -1,5 +1,5 @@
 ## 😄 About Me
-- 👋 Hi, I’m Vedant
+- 👋 Hi, I’m Nirvaan Kohli
 - 👀 I’m interested in training CNNs. Trying to bridge to RNNs, transformers, and hopefully small LMs in the future.
 - 🌱 I'm currently learning React(Yes I am late)
 
