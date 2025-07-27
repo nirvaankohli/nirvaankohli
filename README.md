@@ -1,3 +1,6 @@
+
+<img src="https://komarev.com/ghpvc/?username=nirvaankohli&style=for-the-badge&label=Profile%20Views:&color=ff69b4"/>
+
 ## 😄 About Me
 - 👋 Hi, I’m Nirvaan Kohli
 - 👀 I’m interested in training CNNs. Trying to bridge to RNNs, transformers, and hopefully small LMs in the future.
