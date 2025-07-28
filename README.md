@@ -37,7 +37,7 @@
 ### 🚀 Featured Project
 - **Mood Mirror — Real‑time Facial Emotion Detection**  
   Repo: https://github.com/nirvaankohli/Mood-Mirror  
-  *A CNN‑based project for recognizing facial emotions; training assets include FER‑2013.* :contentReference[oaicite:0]{index=0}
+  *A CNN‑based project for recognizing facial emotions; training assets include FER‑2013.* 
 
 ---
 
