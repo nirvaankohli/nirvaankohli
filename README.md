@@ -38,19 +38,7 @@
 
 ### 🚀 Featured Project
 - **Mood Mirror — Real‑time Facial Emotion Detection**  
-  Repo: https://github.com/nirvaankohli/Mood-Mirror  
-  *A CNN‑based project for recognizing facial emotions; training assets include FER‑2013.*
-
----
-
-### ⌛ Hackatime Coding Stats
-<!-- Make sure your Hackatime/Waka profile data is public (Settings → Permissions) -->
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=nirvaankohli&api_domain=waka.hackclub.com&layout=compact&custom_title=Hackatime%20Week%20Stats"
-    alt="Hackatime stats"
-  />
-</p>
+  Repo: https://github.com/nirvaankohli/Mood-Mirror
 
 ---
 
@@ -61,9 +49,8 @@
 
 ### 📊 GitHub Stats
 <p>
-[ <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=nirvaankohli&show_icons=true&theme=default" alt="Nirvaan's GitHub stats">
-](https://github-readme-stats.hackclub.dev/api/wakatime?username=304&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent
-)</p>
+  <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=nirvaankohli&show_icons=true&theme=default" alt="Nirvaan's GitHub stats">
+</p>
 <p>
   <img height="165" src="https://streak-stats.demolab.com?user=nirvaankohli&theme=default" alt="GitHub Streak">
 </p>
@@ -71,8 +58,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvaankohli&layout=compact" alt="Top Languages">
 </p>
 
----
-
-### 🌐 Connect
-- Website: **https://nirvaankohli.com**
-- Email: **nirvaan.kohli@gmail.com**
+### ⏱️ Hackatime / WakaTime
+<!-- Public coding activity card (Hack Club instance of GitHub Readme Stats) -->
+<p>
+  <img
+    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=304&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent"
+    alt="Hackatime Stats"
+  />
+</p>
