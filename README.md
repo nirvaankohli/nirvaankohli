@@ -50,9 +50,7 @@
 <p>
   <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=nirvaankohli&show_icons=true&theme=default" alt="Nirvaan's GitHub stats">
 </p>
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=nirvaankohli&theme=default" alt="GitHub Streak">
-</p>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvaankohli&layout=compact" alt="Top Languages">
 </p>
