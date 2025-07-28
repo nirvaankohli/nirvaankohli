@@ -16,7 +16,6 @@
 - 💬 Ask me about **Python, Flask, TensorFlow, HTML/CSS/JS**  
 - 📫 How to reach me: **nirvaan.kohli@gmail.com**  
 - 🌍 Based in **New Jersey, USA**  
-- ⚡ Fun fact: I tinker with **Raspberry Pi** in my spare time
 
 ---
 
@@ -29,7 +28,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
 </p>
