@@ -61,8 +61,9 @@
 
 ### 📊 GitHub Stats
 <p>
-  <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=nirvaankohli&show_icons=true&theme=default" alt="Nirvaan's GitHub stats">
-</p>
+[ <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=nirvaankohli&show_icons=true&theme=default" alt="Nirvaan's GitHub stats">
+](https://github-readme-stats.hackclub.dev/api/wakatime?username=304&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent
+)</p>
 <p>
   <img height="165" src="https://streak-stats.demolab.com?user=nirvaankohli&theme=default" alt="GitHub Streak">
 </p>
