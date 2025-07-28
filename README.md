@@ -16,6 +16,7 @@
 - 💬 Ask me about **Python, Flask, TensorFlow, HTML/CSS/JS**  
 - 📫 How to reach me: **nirvaan.kohli@gmail.com**  
 - 🌍 Based in **New Jersey, USA**  
+- ⚡ Fun fact: I tinker with **Raspberry Pi** in my spare time
 
 ---
 
@@ -28,6 +29,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
 </p>
@@ -37,7 +39,18 @@
 ### 🚀 Featured Project
 - **Mood Mirror — Real‑time Facial Emotion Detection**  
   Repo: https://github.com/nirvaankohli/Mood-Mirror  
-  *A CNN‑based project for recognizing facial emotions; training assets include FER‑2013.* 
+  *A CNN‑based project for recognizing facial emotions; training assets include FER‑2013.*
+
+---
+
+### ⌛ Hackatime Coding Stats
+<!-- Make sure your Hackatime/Waka profile data is public (Settings → Permissions) -->
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=nirvaankohli&api_domain=waka.hackclub.com&layout=compact&custom_title=Hackatime%20Week%20Stats"
+    alt="Hackatime stats"
+  />
+</p>
 
 ---
 
@@ -50,7 +63,9 @@
 <p>
   <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=nirvaankohli&show_icons=true&theme=default" alt="Nirvaan's GitHub stats">
 </p>
-
+<p>
+  <img height="165" src="https://streak-stats.demolab.com?user=nirvaankohli&theme=default" alt="GitHub Streak">
+</p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvaankohli&layout=compact" alt="Top Languages">
 </p>
