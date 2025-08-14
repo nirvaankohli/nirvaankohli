@@ -11,12 +11,12 @@
 
 ---
 
-- 🔭 I’m currently building **Flipz.ai** – an AI flashcard generator  
+- 🔭 I’m currently building **git-commitcli** – a CLI that generates commit messages and commits for you, saving the hassle
 - 🌱 I’m learning **React**, and going from **CNNs → RNNs/Transformers → small LMs**  
 - 💬 Ask me about **Python, Flask, TensorFlow, HTML/CSS/JS**  
 - 📫 How to reach me: **nirvaan.kohli@gmail.com**  
 - 🌍 Based in **New Jersey, USA**  
-- ⚡ Fun fact: I tinker with **Raspberry Pi** in my spare time
+- ⚡ Fun fact: I tinker with my **Raspberry Pi** in my spare time
 
 ---
 
