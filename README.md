@@ -11,12 +11,10 @@
 
 ---
 
-- 🔭 I’m currently building **git-commitcli** – a CLI that generates commit messages and commits for you, saving the hassle
-- 🌱 I’m learning **React**, and going from **CNNs → RNNs/Transformers → small LMs**  
-- 💬 Ask me about **Python, Flask, TensorFlow, HTML/CSS/JS**  
+- 🌱 I’m learning about the math behind NNs
+- 💬 Ask me about **Python, Flask, PyTorch, HTML/CSS/JS**  
 - 📫 How to reach me: **nirvaan.kohli@gmail.com**  
 - 🌍 Based in **New Jersey, USA**  
-- ⚡ Fun fact: I tinker with my **Raspberry Pi** in my spare time
 
 ---
 
@@ -33,17 +31,6 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
 </p>
-
----
-
-### 🚀 Featured Project
-- **Mood Mirror — Real‑time Facial Emotion Detection**  
-  Repo: https://github.com/nirvaankohli/Mood-Mirror
-
----
-
-### 📦 Recent Repositories
-- `Mood-Mirror` • `flipz.ai` • `Portfolio` • `maps-classifier` • `captcha-solver` • `SVHN-Digit-Recognition` • `Fashion-MNIST` • `CIFAR-10-First-CNN`
 
 ---
 
