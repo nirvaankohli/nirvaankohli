@@ -1,6 +1,5 @@
 <!-- Profile Title -->
 <h1 align="center">Hi 👋, I'm Nirvaan Kohli</h1>
-<h3 align="center">Teen developer exploring Python, ML, and web apps</h3>
 
 <!-- Quick badges -->
 <p align="center">
@@ -11,8 +10,7 @@
 
 ---
 
-- 🌱 I’m learning about the math behind NNs
-- 💬 Ask me about **Python, Flask, PyTorch, HTML/CSS/JS**  
+- hmu if u wanna work together for hackathons or anything 
 - 📫 How to reach me: **nirvaan.kohli@gmail.com**  
 - 🌍 Based in **New Jersey, USA**  
 
