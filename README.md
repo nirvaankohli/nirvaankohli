@@ -33,13 +33,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="left" height="165" src="https://github-readme-stats.vercel.app/api?username=nirvaankohli&show_icons=true&theme=default" alt="Nirvaan's GitHub stats">
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvaankohli&layout=compact" alt="Top Languages">
-</p>
+![Nirvaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirvaankohli&show_icons=true&theme=radical)
 
 ### ⏱️ Hackatime / WakaTime
 <!-- Public coding activity card (Hack Club instance of GitHub Readme Stats) -->
