@@ -33,7 +33,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Nirvaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirvaankohli&show_icons=true&theme=radical)
+![Nirvaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirvaankohli)
 
 ### ⏱️ Hackatime / WakaTime
 <!-- Public coding activity card (Hack Club instance of GitHub Readme Stats) -->
